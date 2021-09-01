@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KriptCur</string>
+    <string name="start">Start</string>
+    <string name="version">version 1.1.1</string>
+    <string name="help">Help</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+</resources>
